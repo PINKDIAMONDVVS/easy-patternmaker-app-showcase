@@ -20,7 +20,7 @@
 
 <div align="center">
   <a href="[YOUR-VIDEO-LINK]">
-    <img src="assets/video-thumbnail.png" alt="Demo Video" width="800"/>
+    <img src="assets/video-thumbnail.jpg" alt="Demo Video" width="800"/>
   </a>
   <p><em>Click to watch the full demo showcasing the complete workflow from template selection to pattern export</em></p>
 </div>
