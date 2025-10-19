@@ -19,7 +19,7 @@
 ## 🎥 Demo Video
 
 <div align="center">
-  <a href="[YOUR-VIDEO-LINK]">
+  <a href="https://youtu.be/bwhhytO7jE0">
     <img src="assets/video-thumbnail.jpg" alt="Demo Video" width="800"/>
   </a>
   <p><em>Click to watch the full demo showcasing the complete workflow from template selection to pattern export</em></p>
